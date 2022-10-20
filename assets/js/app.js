@@ -118,7 +118,6 @@ let footer = $(`
     </a>
 
 
-    
     </div>
     </div>
 </footer>
